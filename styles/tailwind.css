@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*! purgecss start ignore */
+@import "prism.css";
+/*! purgecss end ignore */
+
+/*Custom Styles Here*/
