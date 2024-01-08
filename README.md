@@ -188,7 +188,7 @@ To make the studio work properly, you must add CORS origin in Sanity. This is us
 
 Click `Add CORS origin` button and enter the URL as `http://localhost:3000` and check the Allow credentials checkbox.
 
-## Step 4 Continue from above steps
+## Step 4 Continue from above step
 
 Now, you will be able continue from the above instructions to import the demo data and running the project locally.
 
